@@ -1,4 +1,4 @@
 js-mouse-tracking
 =================
 
-Simple software to track 2D spatio-temporal location of a user's mouse on a webpage.
+Javascript code to track (x,y) position of a user's mouse over time. 
